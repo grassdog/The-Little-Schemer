@@ -1,6 +1,6 @@
 ; The Little Schemer Chapter 2 Exercises
 
-(load "common.rkt")
+(load "common.scm")
 
 ; List of atoms?
 (define lat?

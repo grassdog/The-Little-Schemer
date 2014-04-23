@@ -1,6 +1,6 @@
 ; The Little Schemer Chapter 3 Exercises
 
-(load "common.rkt")
+(load "common.scm")
 
 ; Remove a member
 (define rember

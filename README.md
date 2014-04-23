@@ -1,5 +1,10 @@
-# Exercises from The Little Schemer
+# Exercises from [The Little Schemer](http://www.gnu.org/software/mit-scheme/)
 
-Exercises are written using [Racket](http://racket-lang.org/).
+Exercises are written using [MIT-Scheme](http://www.gnu.org/software/mit-scheme/).
 
-The book: http://www.ccs.neu.edu/home/matthias/BTLS/
+To get up and running with a decent REPL
+
+```sh
+$ brew install mit-scheme rlwrap
+$ rlwrap -r -c scheme
+```

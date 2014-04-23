@@ -1,6 +1,6 @@
 ; The Little Schemer Chapter 4 Exercises
 
-(load "common.rkt")
+(load "common.scm")
 
 ;(define add1
 ;  (lambda (n)

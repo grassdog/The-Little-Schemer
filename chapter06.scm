@@ -1,8 +1,8 @@
 ; The Little Schemer Chapter 6 Exercises
 
-(load "common.rkt")
+(load "common.scm")
 
-(load "chapter04.rkt")
+(load "chapter04.scm")
 
 (define numbered?
   (lambda (aexp)
