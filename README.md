@@ -1,4 +1,4 @@
-# Exercises from [The Little Schemer](http://www.gnu.org/software/mit-scheme/)
+# Exercises from [The Little Schemer](http://www.ccs.neu.edu/home/matthias/BTLS/)
 
 Exercises are written using [MIT-Scheme](http://www.gnu.org/software/mit-scheme/).
 
